@@ -8,4 +8,4 @@ def find_num(list, number):
             target.append(index)
     return target
 
-print(find_num(numbers, 0))
+print(find_num(numbers, 5))
