@@ -2,6 +2,7 @@ import time
 
 input("Press Enter to start timing...") 
 before = time.time()
+
 input("Press Enter to end timing...")
 after = time.time()
 
